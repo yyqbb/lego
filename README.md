@@ -22,8 +22,10 @@ This project analyzes LEGO sets to help investors identify high-value sets and p
 
 ---
 
+
 ## Notes
 
-- Dashboard provides actionable insights for LEGO investors.  
+- Dashboard provides actionable insights for LEGO investors.
+  ![LEGO Growth App Preview](downloads/dashboard_preview.png)
 - Project combines clustering, feature engineering, and machine learning for robust predictions.  
 - Designed to be scalable and extensible, allowing additional datasets or features to be incorporated.
